@@ -136,7 +136,7 @@ aside > h3 {
     border-radius: 10px 10px 0px 0px;
 }
 footer {
-    background-color: black;
+    background-color: rgb(31, 31, 31);
     color: white;
     text-align: center;
     margin: 0px;
